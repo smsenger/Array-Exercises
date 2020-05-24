@@ -1,0 +1,1 @@
+This repository contains array exercises with solutions.
